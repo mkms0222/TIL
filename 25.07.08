@@ -1,0 +1,29 @@
+# 0. TL;DR
+
+> 자바스크립트 이론, 정렬 알고리즘, 디자인 전반에 대한 학습을 진행했다
+> 
+
+### 참고자료
+
+- https://www.maeil-mail.kr/question/136
+- https://teddy0.tistory.com/7
+
+# 1. 매일메일
+
+> https://velog.io/@mkms0222/CORS%EC%84%A4%EC%A0%95%EC%97%86%EC%9D%B4-%EC%99%B8%EB%B6%80%EC%84%9C%EB%B2%84%EC%99%80-%ED%86%B5%EC%8B%A0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
+> 
+- CORS 설정 없이 SOP를 우회하여 외부 서버와 통신하는 방법
+- CORS, SOP 학습
+
+# 2. 모던 자바스크립트 Deep Dive
+
+> [변수, 연산자, 타입 변환과 단축 평가](https://www.notion.so/22a7e0a7d0ce80c2b3f3d6eae266f9c9?pvs=21)
+> 
+- 자바 스크립트의 프로그래밍 언어적 기초 이론
+
+# 3. 정렬 알고리즘 학습
+
+> [정렬 알고리즘](https://www.notion.so/22a7e0a7d0ce804e920cf4e37194573a?pvs=21)
+> 
+- `sort()` 함수를 이용하여 정렬 알고리즘 공부
+- 추가로 lambda까지 학습
